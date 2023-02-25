@@ -1,32 +1,13 @@
-<head>
-<style>
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-
-
-<h2>Two Equal Columns</h2>
-
-<div style="content: ""; display: table; clear: both;">
-  <div  style="background-color:#aaa; float: left; width: 50%; padding: 10px; height: 300px;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div style="background-color:#aaa; float: left; width: 50%; padding: 10px; height: 300px;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
+<table border="0">
+ <tr>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandima301&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+   </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandima301&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+   </td>
+ </tr>
+</table>
 
 <!--
 **Chandima301/Chandima301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
