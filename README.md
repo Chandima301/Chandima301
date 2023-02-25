@@ -32,7 +32,8 @@ width="200px"
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=chandima301&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandima301&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
 
