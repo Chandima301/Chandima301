@@ -1,4 +1,4 @@
-<table border="0">
+<table border="0"  style="border: 1px solid transparent">
  <tr>
     <td>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandima301&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
