@@ -17,12 +17,12 @@
 
 <h2>Two Equal Columns</h2>
 
-<div class="row">
-  <div class="column" style="background-color:#aaa;">
+<div style="content: ""; display: table; clear: both;">
+  <div  style="background-color:#aaa; float: left; width: 50%; padding: 10px; height: 300px;">
     <h2>Column 1</h2>
     <p>Some text..</p>
   </div>
-  <div class="column" style="background-color:#bbb;">
+  <div style="background-color:#aaa; float: left; width: 50%; padding: 10px; height: 300px;">
     <h2>Column 2</h2>
     <p>Some text..</p>
   </div>
