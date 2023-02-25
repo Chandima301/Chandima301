@@ -1,4 +1,4 @@
-
+<head>
 <style>
 .column {
   float: left;
@@ -13,7 +13,7 @@
 }
 </style>
 </head>
-<body>
+
 
 <h2>Two Equal Columns</h2>
 
